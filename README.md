@@ -2,7 +2,7 @@
 # Hi, I'm Anil Gulati ![](https://komarev.com/ghpvc/?username=anilfromdit&label=PROFILE+VIEWS)
 
 <p align="center">
-  <a href="https://github.com/anilfromdit/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,%20I'm%20Anil%20Gulati;I'm%20a%20Full%20Stack%20Web%20and%20App%20Developer;Associate%20Software%20Engineer%20@%20YMSLI;Self-taught;2.5%20year%20of%20professional%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24"></a>
+  <a href="https://github.com/anilfromdit/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,%20I'm%20Anil%20Gulati;I'm%20a%20Full%20Stack%20Web%20and%20App%20Developer;Full%20Stack%20Developer%20@%20Leaf%20Craft;3%20year%20of%20professional%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24"></a>
 </p>
 
 - 🌱  I'm on track for learning more about Full Stack Development.
@@ -12,8 +12,8 @@
 
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/anilfromdit/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:anilfromdit@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/anilfromdit"><img src="https://img.shields.io/badge/-@anilfromdit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="mailto:contact@anilgulati.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/theanilgulati"><img src="https://img.shields.io/badge/-@anilfromdit_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 
