@@ -20,8 +20,8 @@ I enjoy owning backend systems end-to-end — from design to deployment and reli
 ## 🛠 Tech Stack
 
 **Backend**
-- Java, Spring Boot, Node.js, Express, Python, FastAPI
-- REST APIs, authentication & authorization
+- Java, Spring Boot, Node.js, Express, Python
+- REST APIs, authentication & authorization (JWT, OAuth2, RBAC)
 - SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
 
 **Cloud & DevOps**
@@ -50,5 +50,5 @@ I enjoy owning backend systems end-to-end — from design to deployment and reli
 
 ---
 
-> _I’m open to backend and full-stack roles where I can take ownership of real systems and ship production software._
+> _Open to backend and full-stack roles focused on building and owning production systems._
 
