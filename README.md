@@ -46,7 +46,7 @@ I enjoy owning backend systems end-to-end — from design to deployment and reli
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/anilfromdit  
 - Portfolio: https://anilgulati.com  
-- Email: hi@anilgulati.com  
+- Email: contact@anilgulati.com  
 
 ---
 
