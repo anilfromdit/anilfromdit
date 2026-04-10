@@ -1,9 +1,9 @@
 # Hi, I’m Anil Gulati 👋  
 ![Profile Views](https://komarev.com/ghpvc/?username=anilfromdit&label=PROFILE+VIEWS)
 
-### Backend & Full-Stack Engineer | Java (Spring Boot) | Node.js | AWS | Paris
+### Full-Stack & AI Engineer | Java (Spring Boot) | Node.js | Python | AWS | Paris
 
-Backend-focused full-stack engineer with experience building **production-grade APIs, cloud-native services, and backend platforms** across enterprise and startup environments.  
+Full-stack & AI engineer with experience building **production-grade APIs, cloud-native services, and backend platforms** across enterprise and startup environments.  
 I enjoy owning backend systems end-to-end — from design to deployment and reliability.
 
 ---
@@ -50,5 +50,5 @@ I enjoy owning backend systems end-to-end — from design to deployment and reli
 
 ---
 
-> _Open to backend and full-stack roles focused on building and owning production systems._
+> _Open to AI and full-stack roles focused on building and owning production systems._
 
